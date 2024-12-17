@@ -1,0 +1,31 @@
+_repo: The-behaviour-book-b-A-manual-for-ladies_74899
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Eliza
+    alias: Leslie, Miss (Eliza)
+    birthdate: 1787
+    deathdate: 1858
+    gutenberg_agent_id: '2148'
+    url: http://www.gutenberg.org/2009/agents/2148
+    wikipedia: https://en.wikipedia.org/wiki/Eliza_Leslie
+description: ''
+gutenberg_issued: '2024-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74899'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924029060932
+pgterms:marc905: 20240218101003leslie
+pgterms:marc906: '1853'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aPhiladelphia :$bW.P. Hazard, $c1853.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The behaviour book : $b A manual for ladies'
+url: http://www.gutenberg.org/ebooks/74899
