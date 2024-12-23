@@ -1,5 +1,8 @@
 _repo: The-behaviour-book-b-A-manual-for-ladies_74899
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74899-h/images/cover.jpg
 creator:
   author:
     agent_name: Leslie, Eliza
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2148
     wikipedia: https://en.wikipedia.org/wiki/Eliza_Leslie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74899#The-behaviour-book-b-A-manual-for-ladies
 gutenberg_issued: '2024-12-14'
 gutenberg_type: Text
 identifiers:
